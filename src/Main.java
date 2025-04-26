@@ -1,3 +1,6 @@
+//Hãy viết chương trình cho phép nhập chuỗi,
+// xuất ra số lượng chữ cái viết hoa của mỗi chuỗi.
+// Chương trình kết thúc nếu nhập vào chuỗi rỗng.
 import java.util.Scanner;
 
 public class Main {
